@@ -1,0 +1,5 @@
+dataset_name,url
+Weather-related disease prediction.csv,https://www.kaggle.com/datasets/orvile/weather-related-disease-prediction-dataset
+Emergency_Response_Incidents_20250415.csv,https://data.cityofnewyork.us/Public-Safety/Emergency-Response-Incidents/pasr-j7fb/about_data
+DOHMH_Indoor_Environmental_Complaints_20250417.csv,https://data.cityofnewyork.us/Health/DOHMH-Indoor-Environmental-Complaints/9jgj-bmct/about_data
+DOHMH_Dog_Bite_Data_20250417.csv,https://data.cityofnewyork.us/Health/DOHMH-Dog-Bite-Data/rsgh-akpg/about_data
